@@ -1,0 +1,93 @@
+
+.navbar {
+    overflow: hidden;
+    background-color: #53519E;
+    position: fixed; 
+    top: 20%; 
+    width: 100%; 
+    border: dotted 5px #cad748;
+  }
+  
+  .navbar a {
+    float: left;
+    display: block;
+    color: #d4ec7c;
+  }
+  
+  .kezdetiszoveg{
+  text-align: center;
+  margin-top: 3.5%;
+  margin-bottom: 3.5%;
+  }
+  
+  .row img{
+  width: 70%;
+  }
+  
+  .row{
+    text-align: center;
+  
+  }
+  
+  .col-sm{
+    border-style: solid;
+    border: double 9px;
+    border-color: #cad748;
+    background-color: white;
+    color: #53519E;
+    border-radius: 5px;
+    margin-right: 1.5%;
+    margin-left: 1.5%;
+    font-family: fantasy#53519E}
+  .col-sm p{
+    text-decoration: none;
+  }
+  
+  .col-sm p:hover{
+    transition: 250ms;
+    color: white;
+  }
+  
+  .col-sm:hover{  transition: 250ms;
+    background-color: #cad748;
+    color: white;
+    border: double 9px;
+    border-color: #53519E;
+    border-radius: 5px;
+    }
+  
+  
+  .borderek{
+    border-style: solid;
+    background-color:#53519E;
+    border-color:#cad748;
+    
+    padding: 3%;
+    border-radius: 8px;
+    
+  }
+  
+  .borderek{
+    margin-bottom: 5%;
+  }
+  h3{
+    font-family: fantasy;
+    
+
+  }
+  h1{
+    font-family: fantasy;
+    color: #53519E;
+    text-shadow:
+    -2px -2px 0 #cad748, 
+    2px -2px 0 #cad748, 
+    -2px 2px 0 #cad748, 
+    2px 2px 0 #cad748;
+  }
+  h4{
+    font-family: fantasy;
+    color: #53519E;
+  }
+  #nagykep{
+    margin-left: 25%;
+  }
